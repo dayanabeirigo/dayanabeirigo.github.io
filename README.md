@@ -1,8 +1,5 @@
-Demo: [http://webjeda.com/cards](http://webjeda.com/cards)
+# urban-theme
 
-## Installation
-* Fork the repository
-* Go to settings and set Github Pages source as master.
-* Your new site should be ready.
+This theme is a Jekyll port of http://erosie.net/ with some modifications. It is designed for visual artists.
 
-For more themes visit - [https://jekyll-themes.com](https://jekyll-themes.com)
+Live-Demo: http://narkotyk.net/
